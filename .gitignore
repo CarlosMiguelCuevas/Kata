@@ -1,0 +1,10 @@
+#este es info de el ide
+.idea/
+#este file lo genera cuando le das gardle tasks, o cualquier otro comando gardle
+.gradle/
+#build es el la carpeta que genera el build
+build/
+#esto lo genera con el wrapper
+gradle/
+gradlew
+gardlew.bat
